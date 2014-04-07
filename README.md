@@ -1,5 +1,6 @@
 Task:
 ===
+
 * Change into the temporary directory
 	* mkdir temp
 	* cd temp
